@@ -1,0 +1,11 @@
+C:\Users\Jsrod\Music\juliastore\backend-java\src\main\java\com\juliastore\dto\ResetPasswordRequest.java
+C:\Users\Jsrod\Music\juliastore\backend-java\src\main\java\com\juliastore\JuliastoreBackendApplication.java
+C:\Users\Jsrod\Music\juliastore\backend-java\src\main\java\com\juliastore\config\SecurityConfig.java
+C:\Users\Jsrod\Music\juliastore\backend-java\src\main\java\com\juliastore\dto\RegisterRequest.java
+C:\Users\Jsrod\Music\juliastore\backend-java\src\main\java\com\juliastore\dto\UserResponse.java
+C:\Users\Jsrod\Music\juliastore\backend-java\src\main\java\com\juliastore\repository\UserRepository.java
+C:\Users\Jsrod\Music\juliastore\backend-java\src\main\java\com\juliastore\service\UserService.java
+C:\Users\Jsrod\Music\juliastore\backend-java\src\main\java\com\juliastore\dto\LoginRequest.java
+C:\Users\Jsrod\Music\juliastore\backend-java\src\main\java\com\juliastore\dto\AuthResponse.java
+C:\Users\Jsrod\Music\juliastore\backend-java\src\main\java\com\juliastore\entity\User.java
+C:\Users\Jsrod\Music\juliastore\backend-java\src\main\java\com\juliastore\controller\AuthController.java

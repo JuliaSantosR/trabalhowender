@@ -1,0 +1,11 @@
+com\juliastore\dto\LoginRequest.class
+com\juliastore\dto\UserResponse.class
+com\juliastore\config\SecurityConfig.class
+com\juliastore\dto\ResetPasswordRequest.class
+com\juliastore\repository\UserRepository.class
+com\juliastore\controller\AuthController.class
+com\juliastore\dto\AuthResponse.class
+com\juliastore\dto\RegisterRequest.class
+com\juliastore\JuliastoreBackendApplication.class
+com\juliastore\service\UserService.class
+com\juliastore\entity\User.class
