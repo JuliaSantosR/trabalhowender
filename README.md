@@ -88,7 +88,7 @@ Banco: H2 Memory – console em `http://localhost:8080/h2-console`
 
 - `backend-java/README.md` – detalhes específicos da API
 - `E-commerce/README.md` – detalhes do frontend
-- 
+
 
 Feito com ☕ e 📚 para a faculdade. 
 Obrigada!
